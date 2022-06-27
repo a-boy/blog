@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## a boy's blog
 
 You can use the [editor on GitHub](https://github.com/a-boy/blog/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
