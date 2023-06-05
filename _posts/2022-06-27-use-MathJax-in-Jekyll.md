@@ -7,7 +7,7 @@ categories: math
 1. new file _includes/math.html
 ```
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script id="MathJax-script" async src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
 ```
 2. Use in a markdown or HTML page (or layout) as:
 ```
