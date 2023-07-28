@@ -26,10 +26,4 @@ titles:
 key: page-about
 ---
 
----
-layout: page
-title: About
-permalink: /about/
----
-
 Hi, I'm a boy, my English name is Cody Luo. I like comupter music, ping-pong, starcraft, programming and math. Email: a_boy@live.com
