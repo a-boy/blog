@@ -1,6 +1,8 @@
-## a boy's blog
+# a boy's blog
 
-You can use the [editor on GitHub](https://github.com/a-boy/blog/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+https://a-boy.tk/blog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### 
+- 2023-06-01 set up
+- 2023-07-28 Theme: jekyll-text-theme
