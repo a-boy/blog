@@ -6,7 +6,6 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-theme: jekyll-text-theme
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url: "https://a-boy.tk/blog" # the base hostname & protocol for your site e.g. https://www.someone.com
